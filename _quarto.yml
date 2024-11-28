@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "econ2204-website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: contact
+        href: contact.qmd 
+      - text: cv
+        href: cv.qmd 
+      - text: Blog
+        href: blog/blog_post.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
