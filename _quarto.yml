@@ -11,8 +11,8 @@ website:
         href: contact.qmd 
       - text: cv
         href: cv.qmd 
-      - text: Blog
-        href: blog/blog_post.qmd
+      - text: blog
+        href: blog_post.qmd
 
 format:
   html:
